@@ -1,8 +1,7 @@
-# Microsoft Teams Clone
+# Study Hub
 
 ### You can try the app on the following website:
 
-[https://stormy-retreat-84614.herokuapp.com](https://stormy-retreat-84614.herokuapp.com/)
 
 Preferred browser: Google Chrome
 
